@@ -1,7 +1,8 @@
 name: Coleen
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.09139781
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
@@ -14,28 +15,26 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: And so it began...
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
 color:
+  saturation: 0.7977337
+  brandStrength: 0.4055922024417669
+  lightness: 0.2694146
   brandColors:
     - '#A36615'
     - '#4B0D02'
     - '#FFEA90'
     - '#E2B420'
     - '#645E5C'
-  brandStrength: 0.4055922024417669
-  lightness: 0.2694146
-  saturation: 0.7977337
   rhythmicContrast: 0.987673
-purpose: []
+typography_spectrum: 0.09139781
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 1
+favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
