@@ -4,8 +4,15 @@
         <description><![CDATA[And so it began...]]></description>
         <link>https://thegrid.ai/coleen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 03:51:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 03:52:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/coleen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Power of love...]]></title>
+            <description><![CDATA[<article><h1>Power of love...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dbd05a2b28bf8e3e1d0a57d7ad5d8726b833b833.png"></article>]]></description>
+            <link>https://thegrid.ai/coleen/power-of-love/index.html</link>
+            <guid isPermaLink="false">192dcacc-1709-4317-b330-f8941e809127</guid>
+            <pubDate>Tue, 08 Mar 2016 03:38:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[#rAmen]]></title>
             <description><![CDATA[<article><h1>#rAmen</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eda3b4185b41d35ff39f171b992eed9d25d192fd.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Hello...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4754f901776eaab0653cec53b8e880d9f6b57ff1.png"></article>]]></description>
             <link>https://thegrid.ai/coleen/hello/index.html</link>
             <guid isPermaLink="false">241b3e69-0704-4c41-bcfa-c5ab0f5d127a</guid>
-            <pubDate>Tue, 08 Mar 2016 03:38:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Purest love...]]></title>
-            <description><![CDATA[<article><h1>Purest love...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d2a041ce4ca0ee6f2f7faca18be437ca079b9002.png"></article>]]></description>
-            <link>https://thegrid.ai/coleen/purest-love/index.html</link>
-            <guid isPermaLink="false">c2ce3018-bf04-454c-acd1-da2f6e39682b</guid>
             <pubDate>Tue, 08 Mar 2016 03:38:13 GMT</pubDate>
         </item>
     </channel>
