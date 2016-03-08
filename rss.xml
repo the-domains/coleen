@@ -4,8 +4,15 @@
         <description><![CDATA[And so it began...]]></description>
         <link>https://thegrid.ai/coleen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 03:52:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 03:53:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/coleen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Something in the way you move...]]></title>
+            <description><![CDATA[<article><h1>Something in the way you move...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3376ef245cf9105256f7f82d5b700d019d34657e.png"></article>]]></description>
+            <link>https://thegrid.ai/coleen/something-in-the-way-you-move/index.html</link>
+            <guid isPermaLink="false">80de0e4a-3263-44a7-92aa-edc61a77160e</guid>
+            <pubDate>Tue, 08 Mar 2016 03:38:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Power of love...]]></title>
             <description><![CDATA[<article><h1>Power of love...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dbd05a2b28bf8e3e1d0a57d7ad5d8726b833b833.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Let's want health...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/50ece0dafee46d360c969df8a9f312608398b1be.png"></article>]]></description>
             <link>https://thegrid.ai/coleen/lets-want-health/index.html</link>
             <guid isPermaLink="false">c0d001e8-dfee-49b5-9710-4fabed526adf</guid>
-            <pubDate>Tue, 08 Mar 2016 03:38:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hello...]]></title>
-            <description><![CDATA[<article><h1>Hello...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4754f901776eaab0653cec53b8e880d9f6b57ff1.png"></article>]]></description>
-            <link>https://thegrid.ai/coleen/hello/index.html</link>
-            <guid isPermaLink="false">241b3e69-0704-4c41-bcfa-c5ab0f5d127a</guid>
             <pubDate>Tue, 08 Mar 2016 03:38:13 GMT</pubDate>
         </item>
     </channel>
