@@ -4,8 +4,15 @@
         <description><![CDATA[And so it began...]]></description>
         <link>https://thegrid.ai/coleen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 03:41:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 03:41:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/coleen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dream a little dream...]]></title>
+            <description><![CDATA[<article><h1>Dream a little dream...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cddec432f5ea3003da051ab0a8d1e9c3491d991f.png"></article>]]></description>
+            <link>https://thegrid.ai/coleen/dream-a-little-dream/index.html</link>
+            <guid isPermaLink="false">39062d5f-5245-43d6-aced-92b90e197a14</guid>
+            <pubDate>Tue, 08 Mar 2016 03:38:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Behold...]]></title>
             <description><![CDATA[<article><h1>Behold...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e84cf33107ced08d119eb691ed630d53d24e1e0a.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>#ready</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d553e22eab7329cb58e80b5321f13be2b677b279.png"></article>]]></description>
             <link>https://thegrid.ai/coleen/ready/index.html</link>
             <guid isPermaLink="false">80773c4d-e063-4ce0-9c0e-d6581c0fe499</guid>
-            <pubDate>Tue, 08 Mar 2016 03:10:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[And so it shall be...]]></title>
-            <description><![CDATA[<article><h1>And so it shall be...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f6e0642d38ff729f1d8701ba04890b93d27f4a4.png"></article>]]></description>
-            <link>https://thegrid.ai/coleen/and-so-it-shall-be/index.html</link>
-            <guid isPermaLink="false">babc9785-393d-4bdd-809a-7127811ecca0</guid>
             <pubDate>Tue, 08 Mar 2016 03:10:18 GMT</pubDate>
         </item>
     </channel>
