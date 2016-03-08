@@ -17,11 +17,11 @@ color:
   brandStrength: 0.5
   lightness: 0.5
   brandColors:
-    - '#E9E7E1'
-    - '#AB9889'
-    - '#C6BCB5'
-    - '#160E0C'
-    - '#E1A216'
+    - '#FAD005'
+    - '#54270F'
+    - '#FFFFFF'
+    - '#046DC6'
+    - '#BE6D0B'
   rhythmicContrast: 0.5
 cta:
   bucket: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Coleen
 favicon: null
+name: Coleen
 opengraph:
   image: null
   type: null
