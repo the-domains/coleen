@@ -1,41 +1,41 @@
-name: Coleen
-favicon: null
-layout_spectrum: 0.88882
-typography_spectrum: 0.09139781
+title: And so it began...
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-title: And so it began...
+color:
+  saturation: 0.5
+  brandStrength: 0.5
+  lightness: 0.5
+  brandColors:
+    - '#E9E7E1'
+    - '#AB9889'
+    - '#C6BCB5'
+    - '#160E0C'
+    - '#E1A216'
+  rhythmicContrast: 0.5
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+name: Coleen
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#f4dc00'
-    - '#000000'
-    - '#184618'
-    - '#907f25'
-    - '#52490d'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 0.09139781
+layout_spectrum: 0.88882
