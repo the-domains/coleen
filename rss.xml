@@ -4,8 +4,15 @@
         <description><![CDATA[And so it began...]]></description>
         <link>https://thegrid.ai/coleen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 03:11:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 03:11:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/coleen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Normal is a setting on a washing machine...]]></title>
+            <description><![CDATA[<article><h1>Normal is a setting on a washing machine...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/da8796f809adb548d37032aa7b88c3375114e9fb.png"></article>]]></description>
+            <link>https://thegrid.ai/coleen/normal-is-a-setting-on-a-washing-machine/index.html</link>
+            <guid isPermaLink="false">363dc471-d015-4966-bb0c-d25cbd9453d2</guid>
+            <pubDate>Tue, 08 Mar 2016 03:10:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Read all about it...]]></title>
             <description><![CDATA[<article><h1>Read all about it...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/16bd261f7bc3b7bed16638bcbaa7e28e8fb9c123.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>The room falls away...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e52a30e65a40a027f8954418464a62c3b7f5c6d1.png"></article>]]></description>
             <link>https://thegrid.ai/coleen/the-room-falls-away/index.html</link>
             <guid isPermaLink="false">0a82cc9e-667e-4610-a52b-fcdf862066e9</guid>
-            <pubDate>Tue, 08 Mar 2016 02:53:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Enjoy life...]]></title>
-            <description><![CDATA[<article><h1>Enjoy life...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a6996f3ecb174392bcf5aa2fc620e48f6d201c4e.png"></article>]]></description>
-            <link>https://thegrid.ai/coleen/enjoy-life/index.html</link>
-            <guid isPermaLink="false">ab4a34fc-e68e-45a4-819c-588c195f4ec3</guid>
             <pubDate>Tue, 08 Mar 2016 02:53:17 GMT</pubDate>
         </item>
     </channel>
