@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[And so it began...]]></title>
         <description><![CDATA[And so it began...]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/coleen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 02:52:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 08 Mar 2016 02:53:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/coleen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Thee and me = we]]></title>
+            <description><![CDATA[<article><h1>Thee and me = we</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d368413680ab10b97d234b8c4b842df5a044b86b.png"></article>]]></description>
+            <link>https://thegrid.ai/coleen/thee-and-me-we/index.html</link>
+            <guid isPermaLink="false">a7b22a70-ace6-4e6a-850f-97a724136d72</guid>
+            <pubDate>Tue, 08 Mar 2016 02:53:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Growing Strong]]></title>
             <description><![CDATA[<article><h1>Growing Strong</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a232631663e21a7cc7a5cec315ae674b374ebf85.png"></article>]]></description>
-            <link>undefinedgrowing-strong/index.html</link>
+            <link>https://thegrid.ai/coleen/growing-strong/index.html</link>
             <guid isPermaLink="false">79dd0e58-784f-4f34-898b-4f64f270082b</guid>
             <pubDate>Tue, 08 Mar 2016 02:52:42 GMT</pubDate>
         </item>
