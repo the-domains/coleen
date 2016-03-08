@@ -4,8 +4,15 @@
         <description><![CDATA[And so it began...]]></description>
         <link>https://thegrid.ai/coleen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 03:57:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 03:58:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/coleen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Be impractical...]]></title>
+            <description><![CDATA[<article><h1>Be impractical...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9592135e3cf5f5572a05eef9afff4c08b27c66fa.png"></article>]]></description>
+            <link>https://thegrid.ai/coleen/be-impractical/index.html</link>
+            <guid isPermaLink="false">0f83f425-facb-4fe4-8611-c60c57adc268</guid>
+            <pubDate>Tue, 08 Mar 2016 03:38:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[More than enough...]]></title>
             <description><![CDATA[<article><h1>More than enough...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b6893ed44bc5d0004c9d9fea9ef0282da3a177e1.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/coleen/power-of-love/index.html</link>
             <guid isPermaLink="false">192dcacc-1709-4317-b330-f8941e809127</guid>
             <pubDate>Tue, 08 Mar 2016 03:38:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[#rAmen]]></title>
-            <description><![CDATA[<article><h1>#rAmen</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eda3b4185b41d35ff39f171b992eed9d25d192fd.png"></article>]]></description>
-            <link>https://thegrid.ai/coleen/ramen/index.html</link>
-            <guid isPermaLink="false">b57747c0-aba5-4fe5-8c7e-486789f87b3c</guid>
-            <pubDate>Tue, 08 Mar 2016 03:38:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
