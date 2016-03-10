@@ -4,8 +4,15 @@
         <description><![CDATA[And so it began...]]></description>
         <link>https://thegrid.ai/coleen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 03:41:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2016 03:41:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/coleen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[TTD...]]></title>
+            <description><![CDATA[<article><h1>TTD...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0ba7432eed815d4deed1c8f7a0e9accfccf7e42e.png"></article>]]></description>
+            <link>https://thegrid.ai/coleen/ttd/index.html</link>
+            <guid isPermaLink="false">07ae57bc-7aa0-4b71-8b57-fc6522e06b33</guid>
+            <pubDate>Thu, 10 Mar 2016 03:38:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Forever...]]></title>
             <description><![CDATA[<article><h1>Forever...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6eaa656511ec707ac5141c363b5090f9feed0dc6.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Colliding souls...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5a3bf486682430b17cfab90f9ecd10afcc3ca863.png"></article>]]></description>
             <link>https://thegrid.ai/coleen/colliding-souls/index.html</link>
             <guid isPermaLink="false">80803a76-746a-4dc1-b76a-a7d5d357f8bc</guid>
-            <pubDate>Tue, 08 Mar 2016 03:38:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Until then...]]></title>
-            <description><![CDATA[<article><h1>Until then...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7cb8a5a2ac29e4dc9fbb0f3b750a11385c30c0e0.png"></article>]]></description>
-            <link>https://thegrid.ai/coleen/until-then/index.html</link>
-            <guid isPermaLink="false">df83d100-3dad-4787-8667-dd3b42304875</guid>
             <pubDate>Tue, 08 Mar 2016 03:38:16 GMT</pubDate>
         </item>
     </channel>
