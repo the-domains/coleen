@@ -4,15 +4,8 @@
         <description><![CDATA[And so it began...]]></description>
         <link>https://thegrid.ai/coleen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 17:04:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2016 17:04:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/coleen/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Let's adventure...]]></title>
-            <description><![CDATA[<article><h1>Let's adventure...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/feda1a3a87ad8f20cd0b7dc081b565f248ea1974.png"></article>]]></description>
-            <link>https://thegrid.ai/coleen/lets-adventure/index.html</link>
-            <guid isPermaLink="false">8cfed448-9a5f-4f01-9904-aba13e3e5274</guid>
-            <pubDate>Thu, 10 Mar 2016 17:03:16 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[For you...]]></title>
             <description><![CDATA[<article><h1>For you...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0571c6866a2ffd013240e7820b2ca560781bba76.png"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>I'll open the gate...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0334176b42966f5c7c6425db77af04d46c63f64a.png"></article>]]></description>
             <link>https://thegrid.ai/coleen/ill-open-the-gate/index.html</link>
             <guid isPermaLink="false">5a52df23-6f5a-46c3-872f-4ebf3e4d3c60</guid>
+            <pubDate>Thu, 10 Mar 2016 04:37:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Faith and Desire...]]></title>
+            <description><![CDATA[<article><h1>Faith and Desire...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/053844a327853f8aafa821a0a556adfde3ba8504.png"></article>]]></description>
+            <link>https://thegrid.ai/coleen/faith-and-desire/index.html</link>
+            <guid isPermaLink="false">56c3bb8b-d714-45ab-b74e-49647fc6df3c</guid>
             <pubDate>Thu, 10 Mar 2016 04:37:07 GMT</pubDate>
         </item>
     </channel>
