@@ -4,8 +4,15 @@
         <description><![CDATA[And so it began...]]></description>
         <link>https://thegrid.ai/coleen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 04:45:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2016 04:45:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/coleen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Faith and Desire...]]></title>
+            <description><![CDATA[<article><h1>Faith and Desire...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/053844a327853f8aafa821a0a556adfde3ba8504.png"></article>]]></description>
+            <link>https://thegrid.ai/coleen/faith-and-desire/index.html</link>
+            <guid isPermaLink="false">56c3bb8b-d714-45ab-b74e-49647fc6df3c</guid>
+            <pubDate>Thu, 10 Mar 2016 04:37:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Swim...]]></title>
             <description><![CDATA[<article><h1>Swim...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5cc86c5496d67dc3040bc807ab6ac0e093a4e448.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/coleen/dont-suffer/index.html</link>
             <guid isPermaLink="false">9e61c61d-fa2d-4335-bd5d-8377c79996d1</guid>
             <pubDate>Thu, 10 Mar 2016 04:37:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Be my friend...]]></title>
-            <description><![CDATA[<article><h1>Be my friend...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/870d8dd94a44d0c33a3dfe47f9ca4980e0b8592c.png"></article>]]></description>
-            <link>https://thegrid.ai/coleen/be-my-friend/index.html</link>
-            <guid isPermaLink="false">eecd1d26-5797-4a67-b82c-29836a3dcd84</guid>
-            <pubDate>Thu, 10 Mar 2016 04:37:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
