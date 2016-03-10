@@ -4,8 +4,22 @@
         <description><![CDATA[And so it began...]]></description>
         <link>https://thegrid.ai/coleen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 04:41:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2016 04:41:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/coleen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Be my friend...]]></title>
+            <description><![CDATA[<article><h1>Be my friend...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/870d8dd94a44d0c33a3dfe47f9ca4980e0b8592c.png"></article>]]></description>
+            <link>https://thegrid.ai/coleen/be-my-friend/index.html</link>
+            <guid isPermaLink="false">eecd1d26-5797-4a67-b82c-29836a3dcd84</guid>
+            <pubDate>Thu, 10 Mar 2016 04:37:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Deep harmony...]]></title>
+            <description><![CDATA[<article><h1>Deep harmony...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d2a4ac9197744ad56e2c8f40c84d5f2f98be5196.png"></article>]]></description>
+            <link>https://thegrid.ai/coleen/deep-harmony/index.html</link>
+            <guid isPermaLink="false">3200d31e-85fc-459f-b4e6-a97b684d71da</guid>
+            <pubDate>Thu, 10 Mar 2016 04:37:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Just feel...]]></title>
             <description><![CDATA[<article><h1>Just feel...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/26f53a4e97166f0608d988139ffeb6ab89afb00b.png"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/coleen/basorexia/index.html</link>
             <guid isPermaLink="false">3d57d586-d31d-4b9a-8228-8bc4b33e059c</guid>
             <pubDate>Thu, 10 Mar 2016 04:37:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Suddenly seeing the sun...]]></title>
-            <description><![CDATA[<article><h1>Suddenly seeing the sun...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6bcab1ca185d5145dc93d7cc611b052c9feab5dd.png"></article>]]></description>
-            <link>https://thegrid.ai/coleen/suddenly-seeing-the-sun/index.html</link>
-            <guid isPermaLink="false">85b28389-6538-4acf-af20-f53c3518e908</guid>
-            <pubDate>Thu, 10 Mar 2016 03:39:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Never left...]]></title>
-            <description><![CDATA[<article><h1>Never left...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/05b5621f8dec494b376df873eee2dba4b38b8d30.png"></article>]]></description>
-            <link>https://thegrid.ai/coleen/never-left/index.html</link>
-            <guid isPermaLink="false">021b5a49-266e-4f61-9c87-0ad23dd27fb7</guid>
-            <pubDate>Thu, 10 Mar 2016 03:39:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
