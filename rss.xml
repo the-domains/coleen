@@ -4,8 +4,15 @@
         <description><![CDATA[And so it began...]]></description>
         <link>https://thegrid.ai/coleen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 03:58:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2016 03:39:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/coleen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Awesomely awkward...]]></title>
+            <description><![CDATA[<article><h1>Awesomely awkward...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a147754b4c00727a058cf21788a4d5141255f5b8.png"></article>]]></description>
+            <link>https://thegrid.ai/coleen/awesomely-awkward/index.html</link>
+            <guid isPermaLink="false">a11a1ad5-657d-472b-af21-9c7a12db915d</guid>
+            <pubDate>Thu, 10 Mar 2016 03:38:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Be impractical...]]></title>
             <description><![CDATA[<article><h1>Be impractical...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9592135e3cf5f5572a05eef9afff4c08b27c66fa.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Something in the way you move...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3376ef245cf9105256f7f82d5b700d019d34657e.png"></article>]]></description>
             <link>https://thegrid.ai/coleen/something-in-the-way-you-move/index.html</link>
             <guid isPermaLink="false">80de0e4a-3263-44a7-92aa-edc61a77160e</guid>
-            <pubDate>Tue, 08 Mar 2016 03:38:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Power of love...]]></title>
-            <description><![CDATA[<article><h1>Power of love...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dbd05a2b28bf8e3e1d0a57d7ad5d8726b833b833.png"></article>]]></description>
-            <link>https://thegrid.ai/coleen/power-of-love/index.html</link>
-            <guid isPermaLink="false">192dcacc-1709-4317-b330-f8941e809127</guid>
             <pubDate>Tue, 08 Mar 2016 03:38:16 GMT</pubDate>
         </item>
     </channel>
