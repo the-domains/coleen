@@ -4,8 +4,29 @@
         <description><![CDATA[And so it began...]]></description>
         <link>https://thegrid.ai/coleen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 04:39:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2016 04:40:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/coleen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Redamancy...]]></title>
+            <description><![CDATA[<article><h1>Redamancy...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/225575a2ffc21130088751e17c443d9955b06cbd.png"></article>]]></description>
+            <link>https://thegrid.ai/coleen/redamancy/index.html</link>
+            <guid isPermaLink="false">a426d518-58ca-463b-ada8-4e52f33cad08</guid>
+            <pubDate>Thu, 10 Mar 2016 04:37:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hold on...]]></title>
+            <description><![CDATA[<article><h1>Hold on...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/728d9b8618149cca1ee095426b0475feba2a07a7.png"></article>]]></description>
+            <link>https://thegrid.ai/coleen/hold-on/index.html</link>
+            <guid isPermaLink="false">d9a44625-aca2-4fc7-a1be-38d40311d845</guid>
+            <pubDate>Thu, 10 Mar 2016 04:37:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Thinking out loud...]]></title>
+            <description><![CDATA[<article><h1>Thinking out loud...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9369888a184327ec41a7fe2c896a70c386d0510c.png"></article>]]></description>
+            <link>https://thegrid.ai/coleen/thinking-out-loud/index.html</link>
+            <guid isPermaLink="false">aeef4fde-f939-4c5d-9d73-dcfca36a7a86</guid>
+            <pubDate>Thu, 10 Mar 2016 04:37:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tell me...]]></title>
             <description><![CDATA[<article><h1>Tell me...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef00e293d7e94c02c1498acf0baaa960510bc7c1.png"></article>]]></description>
@@ -53,27 +74,6 @@
             <description><![CDATA[<article><h1>Only once...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/abc7efc6e7e93a981fc653a86d906bfd6b48a644.png"></article>]]></description>
             <link>https://thegrid.ai/coleen/only-once/index.html</link>
             <guid isPermaLink="false">19280892-6b4e-40c2-aa51-45cea262f424</guid>
-            <pubDate>Thu, 10 Mar 2016 03:38:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Eyes focused...]]></title>
-            <description><![CDATA[<article><h1>Eyes focused...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ad95347c39f4220356983e32fe9dca365e5d80fd.png"></article>]]></description>
-            <link>https://thegrid.ai/coleen/eyes-focused/index.html</link>
-            <guid isPermaLink="false">9234ebef-9b20-4866-b064-ec0fa55bfe5f</guid>
-            <pubDate>Thu, 10 Mar 2016 03:38:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TTD...]]></title>
-            <description><![CDATA[<article><h1>TTD...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0ba7432eed815d4deed1c8f7a0e9accfccf7e42e.png"></article>]]></description>
-            <link>https://thegrid.ai/coleen/ttd/index.html</link>
-            <guid isPermaLink="false">07ae57bc-7aa0-4b71-8b57-fc6522e06b33</guid>
-            <pubDate>Thu, 10 Mar 2016 03:38:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Forever...]]></title>
-            <description><![CDATA[<article><h1>Forever...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6eaa656511ec707ac5141c363b5090f9feed0dc6.png"></article>]]></description>
-            <link>https://thegrid.ai/coleen/forever/index.html</link>
-            <guid isPermaLink="false">e0ab2b0a-a147-43e5-b710-b5c656caf712</guid>
             <pubDate>Thu, 10 Mar 2016 03:38:59 GMT</pubDate>
         </item>
     </channel>
