@@ -4,8 +4,15 @@
         <description><![CDATA[And so it began...]]></description>
         <link>https://thegrid.ai/coleen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 04:45:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2016 04:45:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/coleen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Swim...]]></title>
+            <description><![CDATA[<article><h1>Swim...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5cc86c5496d67dc3040bc807ab6ac0e093a4e448.png"></article>]]></description>
+            <link>https://thegrid.ai/coleen/swim/index.html</link>
+            <guid isPermaLink="false">04ac4772-1531-4597-a071-841c2a6ba1b4</guid>
+            <pubDate>Thu, 10 Mar 2016 04:37:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[You're not alone...]]></title>
             <description><![CDATA[<article><h1>You're not alone...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c9cf422484bc9961d66db60f8e5cccc2c0bc441a.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Be my friend...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/870d8dd94a44d0c33a3dfe47f9ca4980e0b8592c.png"></article>]]></description>
             <link>https://thegrid.ai/coleen/be-my-friend/index.html</link>
             <guid isPermaLink="false">eecd1d26-5797-4a67-b82c-29836a3dcd84</guid>
-            <pubDate>Thu, 10 Mar 2016 04:37:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Deep harmony...]]></title>
-            <description><![CDATA[<article><h1>Deep harmony...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d2a4ac9197744ad56e2c8f40c84d5f2f98be5196.png"></article>]]></description>
-            <link>https://thegrid.ai/coleen/deep-harmony/index.html</link>
-            <guid isPermaLink="false">3200d31e-85fc-459f-b4e6-a97b684d71da</guid>
             <pubDate>Thu, 10 Mar 2016 04:37:03 GMT</pubDate>
         </item>
     </channel>
