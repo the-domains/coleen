@@ -4,8 +4,22 @@
         <description><![CDATA[And so it began...]]></description>
         <link>https://thegrid.ai/coleen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 04:43:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2016 04:44:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/coleen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Oneness...]]></title>
+            <description><![CDATA[<article><h1>Oneness...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/38183aef4f706fef392160972a42901ccb24bec1.png"></article>]]></description>
+            <link>https://thegrid.ai/coleen/oneness/index.html</link>
+            <guid isPermaLink="false">4bffc19c-fb93-4882-9d6b-1a7a469d987a</guid>
+            <pubDate>Thu, 10 Mar 2016 04:37:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[That smile...]]></title>
+            <description><![CDATA[<article><h1>That smile...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a774d59203b0135feb683589259239dbd183c5a7.png"></article>]]></description>
+            <link>https://thegrid.ai/coleen/that-smile/index.html</link>
+            <guid isPermaLink="false">52c38da8-aab5-4008-bda9-c36a3e832691</guid>
+            <pubDate>Thu, 10 Mar 2016 04:37:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My superhero...]]></title>
             <description><![CDATA[<article><h1>My superhero...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/13ff67a4b753fc48d5abeef7528c8cb4095c0ddf.png"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/coleen/redamancy/index.html</link>
             <guid isPermaLink="false">a426d518-58ca-463b-ada8-4e52f33cad08</guid>
             <pubDate>Thu, 10 Mar 2016 04:37:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hold on...]]></title>
-            <description><![CDATA[<article><h1>Hold on...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/728d9b8618149cca1ee095426b0475feba2a07a7.png"></article>]]></description>
-            <link>https://thegrid.ai/coleen/hold-on/index.html</link>
-            <guid isPermaLink="false">d9a44625-aca2-4fc7-a1be-38d40311d845</guid>
-            <pubDate>Thu, 10 Mar 2016 04:37:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Thinking out loud...]]></title>
-            <description><![CDATA[<article><h1>Thinking out loud...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9369888a184327ec41a7fe2c896a70c386d0510c.png"></article>]]></description>
-            <link>https://thegrid.ai/coleen/thinking-out-loud/index.html</link>
-            <guid isPermaLink="false">aeef4fde-f939-4c5d-9d73-dcfca36a7a86</guid>
-            <pubDate>Thu, 10 Mar 2016 04:37:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
