@@ -4,8 +4,22 @@
         <description><![CDATA[And so it began...]]></description>
         <link>https://thegrid.ai/coleen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 03:43:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2016 03:44:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/coleen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Suddenly seeing the sun...]]></title>
+            <description><![CDATA[<article><h1>Suddenly seeing the sun...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6bcab1ca185d5145dc93d7cc611b052c9feab5dd.png"></article>]]></description>
+            <link>https://thegrid.ai/coleen/suddenly-seeing-the-sun/index.html</link>
+            <guid isPermaLink="false">85b28389-6538-4acf-af20-f53c3518e908</guid>
+            <pubDate>Thu, 10 Mar 2016 03:39:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Never left...]]></title>
+            <description><![CDATA[<article><h1>Never left...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/05b5621f8dec494b376df873eee2dba4b38b8d30.png"></article>]]></description>
+            <link>https://thegrid.ai/coleen/never-left/index.html</link>
+            <guid isPermaLink="false">021b5a49-266e-4f61-9c87-0ad23dd27fb7</guid>
+            <pubDate>Thu, 10 Mar 2016 03:39:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Crave]]></title>
             <description><![CDATA[<article><h1>Crave</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/59755c196cb05cbe022266a470d8a1bc3830a67c.png"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/coleen/its-ok/index.html</link>
             <guid isPermaLink="false">2a92978e-20e8-49ed-9572-e16719c97a02</guid>
             <pubDate>Thu, 10 Mar 2016 03:38:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Awesomely awkward...]]></title>
-            <description><![CDATA[<article><h1>Awesomely awkward...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a147754b4c00727a058cf21788a4d5141255f5b8.png"></article>]]></description>
-            <link>https://thegrid.ai/coleen/awesomely-awkward/index.html</link>
-            <guid isPermaLink="false">a11a1ad5-657d-472b-af21-9c7a12db915d</guid>
-            <pubDate>Thu, 10 Mar 2016 03:38:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Be impractical...]]></title>
-            <description><![CDATA[<article><h1>Be impractical...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9592135e3cf5f5572a05eef9afff4c08b27c66fa.png"></article>]]></description>
-            <link>https://thegrid.ai/coleen/be-impractical/index.html</link>
-            <guid isPermaLink="false">0f83f425-facb-4fe4-8611-c60c57adc268</guid>
-            <pubDate>Tue, 08 Mar 2016 03:38:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
