@@ -4,8 +4,15 @@
         <description><![CDATA[And so it began...]]></description>
         <link>https://thegrid.ai/coleen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 04:42:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2016 04:42:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/coleen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[You and me...]]></title>
+            <description><![CDATA[<article><h1>You and me...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8049d4f7ddf60d78f2755f8fd70c78206614e193.png"></article>]]></description>
+            <link>https://thegrid.ai/coleen/you-and-me/index.html</link>
+            <guid isPermaLink="false">55681072-5915-4e26-9571-3c54550e3b7a</guid>
+            <pubDate>Fri, 11 Mar 2016 04:42:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Do whatever it takes...]]></title>
             <description><![CDATA[<article><h1>Do whatever it takes...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9dca0c6290e13a4ff11223cd3b0351ea8c09cd61.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/coleen/perfectly-happy/index.html</link>
             <guid isPermaLink="false">733ac842-b8c7-4b73-959a-6624ce127e7d</guid>
             <pubDate>Thu, 10 Mar 2016 19:50:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Poetry in motion...]]></title>
-            <description><![CDATA[<article><h1>Poetry in motion...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/222e19b80543d8cd989d353712f6025936e93a84.png"></article>]]></description>
-            <link>https://thegrid.ai/coleen/poetry-in-motion/index.html</link>
-            <guid isPermaLink="false">54f168ac-3498-47fa-95e5-aaa7ea0b90e3</guid>
-            <pubDate>Thu, 10 Mar 2016 19:46:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
