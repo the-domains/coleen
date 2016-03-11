@@ -4,8 +4,15 @@
         <description><![CDATA[And so it began...]]></description>
         <link>https://thegrid.ai/coleen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 16:27:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2016 16:27:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/coleen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[We are all connected...]]></title>
+            <description><![CDATA[<article><h1>We are all connected...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/24c07ae814d17544d051fcf652c64012dfef1fb2.png"></article>]]></description>
+            <link>https://thegrid.ai/coleen/we-are-all-connected/index.html</link>
+            <guid isPermaLink="false">00bf8a71-ab7a-4a50-bfa1-b0bb5566790a</guid>
+            <pubDate>Fri, 11 Mar 2016 16:26:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Watch that tub...]]></title>
             <description><![CDATA[<article><h1>Watch that tub...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dcd533c99e9988e672fb662452c48aea984db81f.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/coleen/do-whatever-it-takes/index.html</link>
             <guid isPermaLink="false">ae9215c2-ca7c-4a7d-a831-83f599d68ecd</guid>
             <pubDate>Fri, 11 Mar 2016 04:42:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Broken]]></title>
-            <description><![CDATA[<article><h1>Broken</h1><p>Music video by Lifehouse performing Broken. (C) 2008 Geffen Records</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/71d1c8e49fb5e03afb18df06aa9843d979c322f3.jpg"></article>]]></description>
-            <link>https://music.youtube.com/watch?v=I6cdPeYJh0s</link>
-            <guid isPermaLink="false">bf5406ee-4e01-44e9-96fb-a59243d5b09f</guid>
-            <pubDate>Fri, 11 Mar 2016 03:52:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
