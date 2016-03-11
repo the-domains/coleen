@@ -4,8 +4,15 @@
         <description><![CDATA[And so it began...]]></description>
         <link>https://thegrid.ai/coleen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 14:51:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2016 16:27:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/coleen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Love affair with existence...]]></title>
+            <description><![CDATA[<h1>Love affair with existence...</h1>]]></description>
+            <link>https://thegrid.ai/coleen/love-affair-with-existence/index.html</link>
+            <guid isPermaLink="false">8dd646a9-7db2-4cbd-b165-ff95038700a4</guid>
+            <pubDate>Fri, 11 Mar 2016 16:26:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Profound truth]]></title>
             <description><![CDATA[<h1>Profound truth</h1>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Really good?</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9dc3d99dad0d003968a50c7cc693809daa60b911.png"></article>]]></description>
             <link>https://thegrid.ai/coleen/really-good/index.html</link>
             <guid isPermaLink="false">0dc99862-9b86-416c-a8eb-2ddd011e2dc2</guid>
-            <pubDate>Thu, 10 Mar 2016 22:12:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Massage me...]]></title>
-            <description><![CDATA[<article><h1>Massage me...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/67e86a24fc032e685de6759f64ea177d9bdd4cca.png"></article>]]></description>
-            <link>https://thegrid.ai/coleen/massage-me/index.html</link>
-            <guid isPermaLink="false">994478e6-276f-42b1-941e-5aa3bf6a3968</guid>
             <pubDate>Thu, 10 Mar 2016 22:12:40 GMT</pubDate>
         </item>
     </channel>
