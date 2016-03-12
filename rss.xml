@@ -4,11 +4,18 @@
         <description><![CDATA[And so it began...]]></description>
         <link>https://thegrid.ai/coleen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 04:49:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2016 04:54:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/coleen/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Hey you...]]></title>
+            <description><![CDATA[<article><h1>Hey you...</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f02954ef-7340-4065-8a04-03837e960586.png"></article>]]></description>
+            <link>https://thegrid.ai/coleen/hey-you/index.html</link>
+            <guid isPermaLink="false">aa9bf3fb-8e30-4917-bc9a-714062b17c67</guid>
+            <pubDate>Sat, 12 Mar 2016 04:52:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Yes you are...]]></title>
-            <description><![CDATA[<article><h1>Yes you are...</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d885dc75-5fc8-4c98-90bd-c886ca716401.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Yes you are...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9a73a88c6121c7b8a5833fdda71c1efe67b67703.png"></article>]]></description>
             <link>https://thegrid.ai/coleen/yes-you-are/index.html</link>
             <guid isPermaLink="false">f20eb35a-48b3-424f-8f13-cc1f530ed27b</guid>
             <pubDate>Sat, 12 Mar 2016 04:48:38 GMT</pubDate>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>You're a badass...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6a177edeef58f7f3f4ee4e4e8dfbe47c04d13bde.png"></article>]]></description>
             <link>https://thegrid.ai/coleen/youre-a-badass/index.html</link>
             <guid isPermaLink="false">f2a48dab-07ba-4db2-9497-4ea36a818320</guid>
-            <pubDate>Sat, 12 Mar 2016 04:33:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mere seconds...]]></title>
-            <description><![CDATA[<article><h1>Mere seconds...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8760f6da8a4621d785691ef8cb784338d879120d.png"></article>]]></description>
-            <link>https://thegrid.ai/coleen/mere-seconds/index.html</link>
-            <guid isPermaLink="false">287b66b5-9370-4fba-b198-2c9819ec3f5f</guid>
             <pubDate>Sat, 12 Mar 2016 04:33:21 GMT</pubDate>
         </item>
     </channel>
