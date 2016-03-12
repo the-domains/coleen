@@ -6,22 +6,22 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 0.5
-  brandStrength: 0.5
+  brandStrength: 1
   lightness: 0.5
   brandColors:
-    - '#FFFFFF'
-    - '#E0CE9A'
-    - '#878901'
-    - '#F27702'
-    - '#BD39BD'
+    - '#FCB403'
+    - '#CF7703'
+    - '#653002'
+    - '#66774A'
+    - '#303803'
   rhythmicContrast: 0.5
 cta:
   bucket: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Coleen
+favicon: null
 opengraph:
   image: null
   type: null
