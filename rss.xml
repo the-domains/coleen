@@ -4,22 +4,8 @@
         <description><![CDATA[And so it began...]]></description>
         <link>https://thegrid.ai/coleen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 04:45:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2016 04:45:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/coleen/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Unconditional self acceptance...]]></title>
-            <description><![CDATA[<article><h1>Unconditional self acceptance...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/19aae98f8b47333e815b3a31f4eafd9d2b839851.png"></article>]]></description>
-            <link>https://thegrid.ai/coleen/unconditional-self-acceptance/index.html</link>
-            <guid isPermaLink="false">4b2f9f33-159b-456c-9893-7c0194425e72</guid>
-            <pubDate>Sat, 12 Mar 2016 04:44:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bring forth a flower...]]></title>
-            <description><![CDATA[<article><h1>Bring forth a flower...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d957bbae48d92ef825c4990782f6dff56562444e.png"></article>]]></description>
-            <link>https://thegrid.ai/coleen/bring-forth-a-flower/index.html</link>
-            <guid isPermaLink="false">9e8c55a6-0be6-4d00-83ab-14a2fbb121be</guid>
-            <pubDate>Sat, 12 Mar 2016 04:44:23 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[It just gives...]]></title>
             <description><![CDATA[<article><h1>It just gives...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5150e4b12c33b426dc685e99aef42c77029705d1.png"></article>]]></description>
@@ -75,6 +61,20 @@
             <link>https://thegrid.ai/coleen/yellow/index.html</link>
             <guid isPermaLink="false">1f896b53-70fe-43ec-9b86-9d888885ebaf</guid>
             <pubDate>Sat, 12 Mar 2016 03:52:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I need YOU]]></title>
+            <description><![CDATA[<article><h1>I need YOU</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/66dd95634b4d872dac013492236f807f4d133643.png"></article>]]></description>
+            <link>https://thegrid.ai/coleen/i-need-you/index.html</link>
+            <guid isPermaLink="false">20f65f62-464a-4a87-ae25-f804b6bea92f</guid>
+            <pubDate>Sat, 12 Mar 2016 03:38:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cuddle is the cure...]]></title>
+            <description><![CDATA[<article><h1>Cuddle is the cure...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce97d0f4d670e5084fad9d68e6991ea3ad8007e3.png"></article>]]></description>
+            <link>https://thegrid.ai/coleen/cuddle-is-the-cure/index.html</link>
+            <guid isPermaLink="false">1fc76029-0d02-4d41-b185-520da276f17c</guid>
+            <pubDate>Sat, 12 Mar 2016 03:26:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
