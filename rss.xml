@@ -4,8 +4,15 @@
         <description><![CDATA[And so it began...]]></description>
         <link>https://thegrid.ai/coleen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 01:15:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2016 01:20:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/coleen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Know...]]></title>
+            <description><![CDATA[<article><h1>Know...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d30be9f1a7d5cb5cc90d9144c762af1921daf4d4.png"></article>]]></description>
+            <link>https://thegrid.ai/coleen/know/index.html</link>
+            <guid isPermaLink="false">2f8441f0-71f0-48b2-8dc0-1f28e9f3dcf4</guid>
+            <pubDate>Sat, 12 Mar 2016 01:20:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dance with light...]]></title>
             <description><![CDATA[<article><h1>Dance with light...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/75ff16b40801e59f59730f69961d4f73c871dba9.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/coleen/love-affair-with-existence/index.html</link>
             <guid isPermaLink="false">1fac8dc3-bcb0-4428-9f58-a6462477d237</guid>
             <pubDate>Fri, 11 Mar 2016 18:12:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We are all connected...]]></title>
-            <description><![CDATA[<article><h1>We are all connected...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/24c07ae814d17544d051fcf652c64012dfef1fb2.png"></article>]]></description>
-            <link>https://thegrid.ai/coleen/we-are-all-connected/index.html</link>
-            <guid isPermaLink="false">00bf8a71-ab7a-4a50-bfa1-b0bb5566790a</guid>
-            <pubDate>Fri, 11 Mar 2016 16:26:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
