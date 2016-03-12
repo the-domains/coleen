@@ -4,8 +4,15 @@
         <description><![CDATA[And so it began...]]></description>
         <link>https://thegrid.ai/coleen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 01:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2016 01:15:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/coleen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dance with light...]]></title>
+            <description><![CDATA[<article><h1>Dance with light...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/75ff16b40801e59f59730f69961d4f73c871dba9.png"></article>]]></description>
+            <link>https://thegrid.ai/coleen/dance-with-light/index.html</link>
+            <guid isPermaLink="false">3552ea56-9ec9-4111-9223-e271c0bc44e9</guid>
+            <pubDate>Sat, 12 Mar 2016 01:14:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Be my weakness]]></title>
             <description><![CDATA[<article><h1>Be my weakness</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8bdc934d21defd5c006b38247208f64096b78a17.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>We are all connected...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/24c07ae814d17544d051fcf652c64012dfef1fb2.png"></article>]]></description>
             <link>https://thegrid.ai/coleen/we-are-all-connected/index.html</link>
             <guid isPermaLink="false">00bf8a71-ab7a-4a50-bfa1-b0bb5566790a</guid>
-            <pubDate>Fri, 11 Mar 2016 16:26:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch that tub...]]></title>
-            <description><![CDATA[<article><h1>Watch that tub...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dcd533c99e9988e672fb662452c48aea984db81f.png"></article>]]></description>
-            <link>https://thegrid.ai/coleen/watch-that-tub/index.html</link>
-            <guid isPermaLink="false">a85ca0e0-5a0b-41b2-9817-3e30af7260b8</guid>
             <pubDate>Fri, 11 Mar 2016 16:26:36 GMT</pubDate>
         </item>
     </channel>
