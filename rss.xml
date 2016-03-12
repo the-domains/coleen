@@ -4,8 +4,15 @@
         <description><![CDATA[And so it began...]]></description>
         <link>https://thegrid.ai/coleen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 03:26:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2016 03:27:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/coleen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cuddle is the cure...]]></title>
+            <description><![CDATA[<article><h1>Cuddle is the cure...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce97d0f4d670e5084fad9d68e6991ea3ad8007e3.png"></article>]]></description>
+            <link>https://thegrid.ai/coleen/cuddle-is-the-cure/index.html</link>
+            <guid isPermaLink="false">1fc76029-0d02-4d41-b185-520da276f17c</guid>
+            <pubDate>Sat, 12 Mar 2016 03:26:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Every day...]]></title>
             <description><![CDATA[<article><h1>Every day...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/95671d8d7356defc387bb893184dc75dac2503f8.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/coleen/endless-love/index.html</link>
             <guid isPermaLink="false">5a1ef6c4-6ba2-4fc6-aaa8-ca3bf077dd7d</guid>
             <pubDate>Sat, 12 Mar 2016 01:14:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Affirmation...]]></title>
-            <description><![CDATA[<article><h1>Affirmation...</h1><p>Savage Garden-Affirmation-Lyrics</p></article>]]></description>
-            <link>https://thegrid.ai/coleen/affirmation/index.html</link>
-            <guid isPermaLink="false">3b61eee8-6c5d-48a4-adf0-f455413a0d81</guid>
-            <pubDate>Fri, 11 Mar 2016 19:14:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
