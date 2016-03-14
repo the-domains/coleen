@@ -1,12 +1,12 @@
 ---
 description: ''
 author: []
-datePublished: '2016-03-14T14:46:03.342Z'
+datePublished: '2016-03-14T16:13:14.088Z'
 publisher:
   domain: ''
   name: ''
 title: Truth is inside you...
-dateModified: '2016-03-14T14:43:22.361Z'
+dateModified: '2016-03-14T16:01:02.128Z'
 sourcePath: _posts/2016-03-14-truth-is-inside-you.md
 published: true
 inFeed: true
