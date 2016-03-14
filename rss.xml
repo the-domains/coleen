@@ -4,8 +4,15 @@
         <description><![CDATA[And so it began...]]></description>
         <link>https://thegrid.ai/coleen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 14:46:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2016 14:46:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/coleen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Truth is inside you...]]></title>
+            <description><![CDATA[<h1>Truth is inside you...</h1>]]></description>
+            <link>https://thegrid.ai/coleen/truth-is-inside-you/index.html</link>
+            <guid isPermaLink="false">091ea843-dde4-41f0-aa89-2ac846e71db6</guid>
+            <pubDate>Mon, 14 Mar 2016 14:46:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The abyss...]]></title>
             <description><![CDATA[<h1>The abyss...</h1>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/coleen/yellow/index.html</link>
             <guid isPermaLink="false">a26e8711-1492-4bcd-8a6f-f663140c182f</guid>
             <pubDate>Sat, 12 Mar 2016 18:06:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The center of your heart...]]></title>
-            <description><![CDATA[<article><h1>The center of your heart...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/99770389f3902f7bc4355b54c2575ad0a72b0d32.png"></article>]]></description>
-            <link>https://thegrid.ai/coleen/the-center-of-your-heart/index.html</link>
-            <guid isPermaLink="false">fb408107-0375-4d8d-a776-1688a6803b44</guid>
-            <pubDate>Sat, 12 Mar 2016 17:22:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
