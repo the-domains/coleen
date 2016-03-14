@@ -4,11 +4,18 @@
         <description><![CDATA[And so it began...]]></description>
         <link>https://thegrid.ai/coleen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 17:38:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2016 03:19:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/coleen/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Yes you are...]]></title>
+            <description><![CDATA[<article><h1>Yes you are...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/57322e95d243a4da83b754a91ebdd73f66a41c11.png"></article>]]></description>
+            <link>https://thegrid.ai/coleen/yes-you-are/index.html</link>
+            <guid isPermaLink="false">2dc03b3f-fb52-4f9c-b6ec-35a9c8681767</guid>
+            <pubDate>Mon, 14 Mar 2016 03:18:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Let's choose simple...]]></title>
-            <description><![CDATA[<article><h1>Let's choose simple...</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/73c57da4-aaba-42c7-a322-aacd340ac143.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Let's choose simple...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1f80bf88eeebe8b0aa56edae07e1ecc9cdd27796.png"></article>]]></description>
             <link>https://thegrid.ai/coleen/lets-choose-simple/index.html</link>
             <guid isPermaLink="false">11aa315b-8582-4d54-accc-ab57481d069b</guid>
             <pubDate>Sun, 13 Mar 2016 17:36:39 GMT</pubDate>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>The right person...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/063b4f050916a4323ccc29fca4284322ada6566b.png"></article>]]></description>
             <link>https://thegrid.ai/coleen/the-right-person/index.html</link>
             <guid isPermaLink="false">8d3e40da-3f81-4b42-b1f3-3d366e7ff263</guid>
-            <pubDate>Sat, 12 Mar 2016 16:50:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I'm down...]]></title>
-            <description><![CDATA[<article><h1>I'm down...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7307d2a7f051bbad33b7193ee8f2d852e1922659.png"></article>]]></description>
-            <link>https://thegrid.ai/coleen/im-down/index.html</link>
-            <guid isPermaLink="false">2870e3e5-9765-425b-9156-2a2b31d20108</guid>
             <pubDate>Sat, 12 Mar 2016 16:50:52 GMT</pubDate>
         </item>
     </channel>
