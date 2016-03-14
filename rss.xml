@@ -4,8 +4,15 @@
         <description><![CDATA[And so it began...]]></description>
         <link>https://thegrid.ai/coleen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 03:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2016 03:19:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/coleen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About damn time...]]></title>
+            <description><![CDATA[<article><h1>About damn time...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b6d28ca2573357273b4707bc833cb06bba59fd94.png"></article>]]></description>
+            <link>https://thegrid.ai/coleen/about-damn-time/index.html</link>
+            <guid isPermaLink="false">3c78641f-e00f-4f20-a446-58a1b54cc18a</guid>
+            <pubDate>Mon, 14 Mar 2016 03:18:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Yes you are...]]></title>
             <description><![CDATA[<article><h1>Yes you are...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/57322e95d243a4da83b754a91ebdd73f66a41c11.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Let's do...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe7b59ba40e4b73348478bf17c62e0e45af82848.png"></article>]]></description>
             <link>https://thegrid.ai/coleen/lets-do/index.html</link>
             <guid isPermaLink="false">cf2a1325-e6b5-4a28-be86-cb453fd02304</guid>
-            <pubDate>Sat, 12 Mar 2016 16:50:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The right person...]]></title>
-            <description><![CDATA[<article><h1>The right person...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/063b4f050916a4323ccc29fca4284322ada6566b.png"></article>]]></description>
-            <link>https://thegrid.ai/coleen/the-right-person/index.html</link>
-            <guid isPermaLink="false">8d3e40da-3f81-4b42-b1f3-3d366e7ff263</guid>
             <pubDate>Sat, 12 Mar 2016 16:50:52 GMT</pubDate>
         </item>
     </channel>
