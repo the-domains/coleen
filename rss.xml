@@ -4,8 +4,22 @@
         <description><![CDATA[And so it began...]]></description>
         <link>https://thegrid.ai/coleen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 01:06:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2016 01:08:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/coleen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Seriousness is a sin...]]></title>
+            <description><![CDATA[<article><h1>Seriousness is a sin...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/63dac7e622b33e0dfcddf02cd4bd82c0335ad9a2.png"></article>]]></description>
+            <link>https://thegrid.ai/coleen/seriousness-is-a-sin/index.html</link>
+            <guid isPermaLink="false">3bf0e95b-3954-4e6c-8659-f4db689001ff</guid>
+            <pubDate>Tue, 15 Mar 2016 01:05:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Exactly...]]></title>
+            <description><![CDATA[<h1>Exactly...</h1>]]></description>
+            <link>https://thegrid.ai/coleen/exactly/index.html</link>
+            <guid isPermaLink="false">e00e677c-e07f-40cc-af25-0c8ccde8944c</guid>
+            <pubDate>Tue, 15 Mar 2016 01:05:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/84affa33-a6bd-40e8-9c31-c869fc7557d3.png">]]></description>
@@ -42,39 +56,11 @@
             <pubDate>Tue, 15 Mar 2016 01:05:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Stay sane...]]></title>
-            <description><![CDATA[<h1>Stay sane...</h1>]]></description>
-            <link>https://thegrid.ai/coleen/stay-sane/index.html</link>
-            <guid isPermaLink="false">2052aa10-c500-4461-852d-415b0d74aedb</guid>
-            <pubDate>Mon, 14 Mar 2016 16:42:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Truth is inside you...]]></title>
-            <description><![CDATA[<h1>Truth is inside you...</h1>]]></description>
-            <link>https://thegrid.ai/coleen/truth-is-inside-you/index.html</link>
-            <guid isPermaLink="false">25f5493b-17d2-4554-827f-c3020f8042fd</guid>
-            <pubDate>Mon, 14 Mar 2016 16:13:14 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[There will ever only be one you...]]></title>
             <description><![CDATA[<h1>There will ever only be one you...</h1>]]></description>
             <link>https://thegrid.ai/coleen/there-will-ever-only-be-one-you/index.html</link>
             <guid isPermaLink="false">37e8e8bd-7ba6-4251-86a5-e3b072aadf4d</guid>
             <pubDate>Mon, 14 Mar 2016 16:13:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[~Pepper]]></title>
-            <description><![CDATA[<h1>~Pepper</h1>]]></description>
-            <link>https://thegrid.ai/coleen/~pepper/index.html</link>
-            <guid isPermaLink="false">4ab8cc2a-3147-4496-b2a5-00a8ac03818e</guid>
-            <pubDate>Mon, 14 Mar 2016 16:13:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[You are...]]></title>
-            <description><![CDATA[<article><h1>You are...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/422d455451771b518d663a1040fe0a4698ea64c4.png"></article>]]></description>
-            <link>https://thegrid.ai/coleen/you-are/index.html</link>
-            <guid isPermaLink="false">a9e1565e-ab0d-4953-ac8a-f2289460759a</guid>
-            <pubDate>Mon, 14 Mar 2016 03:46:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
