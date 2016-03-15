@@ -4,8 +4,15 @@
         <description><![CDATA[And so it began...]]></description>
         <link>https://thegrid.ai/coleen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 21:12:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2016 21:12:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/coleen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Truth is inside...]]></title>
+            <description><![CDATA[<h1>Truth is inside...</h1>]]></description>
+            <link>https://thegrid.ai/coleen/truth-is-inside/index.html</link>
+            <guid isPermaLink="false">0e8863ce-ee9e-4856-a6b6-037fc046556d</guid>
+            <pubDate>Tue, 15 Mar 2016 21:11:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[There will ever only be one you...]]></title>
             <description><![CDATA[<h1>There will ever only be one you...</h1>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/coleen/seriousness-is-a-sin/index.html</link>
             <guid isPermaLink="false">3bf0e95b-3954-4e6c-8659-f4db689001ff</guid>
             <pubDate>Tue, 15 Mar 2016 01:05:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/84affa33-a6bd-40e8-9c31-c869fc7557d3.png">]]></description>
-            <link>https://thegrid.ai/coleen/b46d9197-5943-4e94-998e-5aa56156c2fc/index.html</link>
-            <guid isPermaLink="false">b46d9197-5943-4e94-998e-5aa56156c2fc</guid>
-            <pubDate>Tue, 15 Mar 2016 01:05:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
