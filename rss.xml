@@ -4,8 +4,15 @@
         <description><![CDATA[And so it began...]]></description>
         <link>https://thegrid.ai/coleen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 21:12:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2016 23:11:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/coleen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Still, quiet, patient]]></title>
+            <description><![CDATA[<article><h1>Still, quiet, patient</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/98e78cf5ab9dfee9f0880c7ce0f11b14dda97df8.png"></article>]]></description>
+            <link>https://thegrid.ai/coleen/still-quiet-patient/index.html</link>
+            <guid isPermaLink="false">07c61f1b-7762-4524-acf4-d19568e43572</guid>
+            <pubDate>Wed, 16 Mar 2016 23:11:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Truth is inside...]]></title>
             <description><![CDATA[<h1>Truth is inside...</h1>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/coleen/httpsyoutuberjycmq__ndm/index.html</link>
             <guid isPermaLink="false">4c0802c2-c4b1-445c-82e5-95010c6ed0e9</guid>
             <pubDate>Tue, 15 Mar 2016 19:36:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Seriousness is a sin...]]></title>
-            <description><![CDATA[<article><h1>Seriousness is a sin...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/63dac7e622b33e0dfcddf02cd4bd82c0335ad9a2.png"></article>]]></description>
-            <link>https://thegrid.ai/coleen/seriousness-is-a-sin/index.html</link>
-            <guid isPermaLink="false">3bf0e95b-3954-4e6c-8659-f4db689001ff</guid>
-            <pubDate>Tue, 15 Mar 2016 01:05:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
