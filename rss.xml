@@ -4,8 +4,15 @@
         <description><![CDATA[And so it began...]]></description>
         <link>https://thegrid.ai/coleen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 02:57:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2016 02:58:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/coleen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A beautiful heart...]]></title>
+            <description><![CDATA[<article><h1>A beautiful heart...</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/afa0aef1-4b13-470a-a6d3-6520036b7e5c.png"></article>]]></description>
+            <link>https://thegrid.ai/coleen/a-beautiful-heart/index.html</link>
+            <guid isPermaLink="false">994034cc-6fed-4744-801a-93bcb11b3be6</guid>
+            <pubDate>Thu, 17 Mar 2016 02:57:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Love...]]></title>
             <description><![CDATA[<article><h1>Love...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cba624d257890e9ca531221852c25a209fa9fb0c.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/coleen/be-kind/index.html</link>
             <guid isPermaLink="false">dac3d20d-16b7-46a3-9a3d-52425724bb93</guid>
             <pubDate>Tue, 15 Mar 2016 19:36:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Let's keep it simple...]]></title>
-            <description><![CDATA[<article><h1>Let's keep it simple...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0afb3128a2ef80d69c2b6ab9941a8fa0c8460258.png"></article>]]></description>
-            <link>https://thegrid.ai/coleen/lets-keep-it-simple/index.html</link>
-            <guid isPermaLink="false">e3019a4f-a98d-4165-9aa3-0dafd1744a0a</guid>
-            <pubDate>Tue, 15 Mar 2016 19:36:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
