@@ -4,8 +4,29 @@
         <description><![CDATA[And so it began...]]></description>
         <link>https://thegrid.ai/coleen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 01:30:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2016 01:30:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/coleen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Be gentle...]]></title>
+            <description><![CDATA[<article><h1>Be gentle...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bfd8b262acb24f8854607d5ca9683cc2cc852977.png"></article>]]></description>
+            <link>https://thegrid.ai/coleen/be-gentle/index.html</link>
+            <guid isPermaLink="false">4706150b-25de-4a81-a561-f07d53ce586f</guid>
+            <pubDate>Sun, 20 Mar 2016 01:29:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Love and tenderness...]]></title>
+            <description><![CDATA[<article><h1>Love and tenderness...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/04a26e77aab20abb9879aa3e005e3be32feb88f2.png"></article>]]></description>
+            <link>https://thegrid.ai/coleen/love-and-tenderness/index.html</link>
+            <guid isPermaLink="false">7eb94fde-2e87-449b-ab27-6bf09e85acb7</guid>
+            <pubDate>Sun, 20 Mar 2016 01:29:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Give effortlessly...]]></title>
+            <description><![CDATA[<article><h1>Give effortlessly...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03ba0f89399a887972aa9636aa6ee2a42f7e7c16.png"></article>]]></description>
+            <link>https://thegrid.ai/coleen/give-effortlessly/index.html</link>
+            <guid isPermaLink="false">459cc904-e9e2-4088-aa10-7f75ee125610</guid>
+            <pubDate>Sun, 20 Mar 2016 01:29:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Indeed you do...]]></title>
             <description><![CDATA[<article><h1>Indeed you do...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9857320560f4445f26d4edabae3170ae76b36c7f.png"></article>]]></description>
@@ -54,27 +75,6 @@
             <link>https://thegrid.ai/coleen/total-acceptance-of-you/index.html</link>
             <guid isPermaLink="false">a2b809d3-a882-4a3b-977d-51aae22974f6</guid>
             <pubDate>Sun, 20 Mar 2016 01:09:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meditate...]]></title>
-            <description><![CDATA[<article><h1>Meditate...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/53e96bdd3db5b141c614eff141976a46f340fd01.png"></article>]]></description>
-            <link>https://thegrid.ai/coleen/meditate/index.html</link>
-            <guid isPermaLink="false">b820a461-7002-430c-89a8-38028ba39687</guid>
-            <pubDate>Fri, 18 Mar 2016 14:43:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Let your heart ripen...]]></title>
-            <description><![CDATA[<article><h1>Let your heart ripen...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a0610972aed8b1cde1896b9003fed27684fd0d68.png"></article>]]></description>
-            <link>https://thegrid.ai/coleen/let-your-heart-ripen/index.html</link>
-            <guid isPermaLink="false">0dc1ec05-e18d-4920-8e56-2fa2f1f20ae4</guid>
-            <pubDate>Fri, 18 Mar 2016 01:21:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A beautiful heart...]]></title>
-            <description><![CDATA[<article><h1>A beautiful heart...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cff7a71057647cb503f2d2148bb9fa09765fc3a1.png"></article>]]></description>
-            <link>https://thegrid.ai/coleen/a-beautiful-heart/index.html</link>
-            <guid isPermaLink="false">994034cc-6fed-4744-801a-93bcb11b3be6</guid>
-            <pubDate>Thu, 17 Mar 2016 02:57:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
