@@ -4,8 +4,22 @@
         <description><![CDATA[And so it began...]]></description>
         <link>https://thegrid.ai/coleen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 01:21:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2016 01:30:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/coleen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Indeed you do...]]></title>
+            <description><![CDATA[<article><h1>Indeed you do...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9857320560f4445f26d4edabae3170ae76b36c7f.png"></article>]]></description>
+            <link>https://thegrid.ai/coleen/indeed-you-do/index.html</link>
+            <guid isPermaLink="false">d07955f0-96f8-4453-a3a0-71407b7c2a98</guid>
+            <pubDate>Sun, 20 Mar 2016 01:29:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Everyone...]]></title>
+            <description><![CDATA[<article><h1>Everyone...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dd835dea68816ce1f716d1c7d26382aef54dc38d.png"></article>]]></description>
+            <link>https://thegrid.ai/coleen/everyone/index.html</link>
+            <guid isPermaLink="false">1c89b1a5-0ab1-4cc6-ad7e-8ef9652c6bfa</guid>
+            <pubDate>Sun, 20 Mar 2016 01:29:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Miraculously growing...]]></title>
             <description><![CDATA[<article><h1>Miraculously growing...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/571c44f90aeb5b918375bdc7b7e2b16e6e99be43.png"></article>]]></description>
@@ -60,13 +74,6 @@
             <description><![CDATA[<article><h1>A beautiful heart...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cff7a71057647cb503f2d2148bb9fa09765fc3a1.png"></article>]]></description>
             <link>https://thegrid.ai/coleen/a-beautiful-heart/index.html</link>
             <guid isPermaLink="false">994034cc-6fed-4744-801a-93bcb11b3be6</guid>
-            <pubDate>Thu, 17 Mar 2016 02:57:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Love...]]></title>
-            <description><![CDATA[<article><h1>Love...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cba624d257890e9ca531221852c25a209fa9fb0c.png"></article>]]></description>
-            <link>https://thegrid.ai/coleen/love/index.html</link>
-            <guid isPermaLink="false">af0ad638-faba-408f-9f36-d7226dc2c152</guid>
             <pubDate>Thu, 17 Mar 2016 02:57:47 GMT</pubDate>
         </item>
     </channel>
