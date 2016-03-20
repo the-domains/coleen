@@ -7,13 +7,6 @@
         <lastBuildDate>Sun, 20 Mar 2016 01:30:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/coleen/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Love and tenderness...]]></title>
-            <description><![CDATA[<article><h1>Love and tenderness...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/04a26e77aab20abb9879aa3e005e3be32feb88f2.png"></article>]]></description>
-            <link>https://thegrid.ai/coleen/love-and-tenderness/index.html</link>
-            <guid isPermaLink="false">7eb94fde-2e87-449b-ab27-6bf09e85acb7</guid>
-            <pubDate>Sun, 20 Mar 2016 01:29:46 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Give effortlessly...]]></title>
             <description><![CDATA[<article><h1>Give effortlessly...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03ba0f89399a887972aa9636aa6ee2a42f7e7c16.png"></article>]]></description>
             <link>https://thegrid.ai/coleen/give-effortlessly/index.html</link>
@@ -75,6 +68,13 @@
             <link>https://thegrid.ai/coleen/meditate/index.html</link>
             <guid isPermaLink="false">b820a461-7002-430c-89a8-38028ba39687</guid>
             <pubDate>Fri, 18 Mar 2016 14:43:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Let your heart ripen...]]></title>
+            <description><![CDATA[<article><h1>Let your heart ripen...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a0610972aed8b1cde1896b9003fed27684fd0d68.png"></article>]]></description>
+            <link>https://thegrid.ai/coleen/let-your-heart-ripen/index.html</link>
+            <guid isPermaLink="false">0dc1ec05-e18d-4920-8e56-2fa2f1f20ae4</guid>
+            <pubDate>Fri, 18 Mar 2016 01:21:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
