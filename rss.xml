@@ -4,11 +4,18 @@
         <description><![CDATA[And so it began...]]></description>
         <link>https://thegrid.ai/coleen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 14:46:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2016 01:10:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/coleen/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Total acceptance of you...]]></title>
+            <description><![CDATA[<article><h1>Total acceptance of you...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5dcb4131f2e0ce52d2613a5f54fbfbce7982a74f.png"></article>]]></description>
+            <link>https://thegrid.ai/coleen/total-acceptance-of-you/index.html</link>
+            <guid isPermaLink="false">a2b809d3-a882-4a3b-977d-51aae22974f6</guid>
+            <pubDate>Sun, 20 Mar 2016 01:09:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Meditate...]]></title>
-            <description><![CDATA[<article><h1>Meditate...</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ceaa1eb5-eb8c-463c-9f06-11fd1e82b987.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Meditate...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/53e96bdd3db5b141c614eff141976a46f340fd01.png"></article>]]></description>
             <link>https://thegrid.ai/coleen/meditate/index.html</link>
             <guid isPermaLink="false">b820a461-7002-430c-89a8-38028ba39687</guid>
             <pubDate>Fri, 18 Mar 2016 14:43:48 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/coleen/still-quiet-patient/index.html</link>
             <guid isPermaLink="false">07c61f1b-7762-4524-acf4-d19568e43572</guid>
             <pubDate>Wed, 16 Mar 2016 23:11:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kindness...]]></title>
-            <description><![CDATA[<article><h1>Kindness...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e21f8f1caeafe167105412ca646fa34770303cf0.png"></article>]]></description>
-            <link>https://thegrid.ai/coleen/kindness/index.html</link>
-            <guid isPermaLink="false">eeca7140-d2f1-4af9-92ff-371a5a66a377</guid>
-            <pubDate>Tue, 15 Mar 2016 19:45:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
